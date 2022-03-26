@@ -3,7 +3,7 @@
   src: url("./ShareTechMono-Regular.ttf");
 }
 :root {
-  --bg: #151515;
+  --bg: #000000;
   --fg: #E8E3E3;
   --pr: #69715E;
   --al: #464C3F;
@@ -23,7 +23,7 @@ body, div{
 body {
   border-radius: .5em;
   margin: 5vh;
-  box-shadow: 0 10px 15px 0 rgba(0,0,0,0.25);
+  box-shadow: 0 10px 15px 0 rgba(29, 28, 28, 0.25);
   min-height: 90vh;
   background-color: var(--bg);
   grid-template-columns: 1fr 1fr;
