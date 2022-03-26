@@ -17,7 +17,6 @@ function toggle() {
   bg = rs.getPropertyValue('--bg');
   fg = rs.getPropertyValue('--fg');
   r.style.setProperty('--bg', fg);
-  r.style.setProperty('--fg', bg);
   localStorage.setItem("bg", fg);
   localStorage.setItem("fg", bg);
   t.classList.add("toggled");
