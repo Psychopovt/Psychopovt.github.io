@@ -33,11 +33,7 @@ div {
   grid-gap: 1em;
   align-content: center;
 }
-div.border {
-  background-color:#5a5a5a;
-}
 img {
-  border-radius: 100%;
   align-self: center;
   justify-self: center;
   height: 20em;
