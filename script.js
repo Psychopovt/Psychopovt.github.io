@@ -27,6 +27,5 @@ function toggle() {
 }
 
 function load() {
-  r.style.setProperty('--bg', bg);
   r.style.setProperty('--fg', fg);
 }
